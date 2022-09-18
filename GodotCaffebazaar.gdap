@@ -1,0 +1,8 @@
+[config]
+name="GodotCaffebazaar"
+binary_type="local"
+binary="GodotCaffebazaar-release.aar"
+
+[dependencies]
+remote=["com.github.cafebazaar.Poolakey:poolakey:2.0.0"]
+custom_maven_repos=["https://jitpack.io"]
